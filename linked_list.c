@@ -11,12 +11,7 @@
  */
 
 /* -- Includes -- */
-#include "linked_list.h"
-#include "main_aux.h"
-#include "game.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+
 
 
 /* Allocates memory and creates returns a node to be later on added to game moves list represented by a linked list.
